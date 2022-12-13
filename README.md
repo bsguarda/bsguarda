@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="Vector.jpg" >
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&Cheight=160&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Guarda;Welcome+to+my+Data+Science+Profile!+:%29)](https://git.io/typing-svg)
 
 # Bruno Guarda
 <sub>* Data Science | Python | Machine Learning | SQL | Big Data</sub>
