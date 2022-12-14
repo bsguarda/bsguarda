@@ -17,18 +17,9 @@
 
 **Background in:** Python, Machine Learning, SQL
 
-**Links:**
+
+*Contate-me*
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-guarda)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bsguarda)
 
-
-## Projetos:
-
-Análise dos Dados do Airbnb - Porto em Portugual:  https://bit.ly/3tlE8DP
-
-Análise do Covid-19 2022: https://bityli.com/wALlWi
-
-Detecção de fraudes de cartões de crédito - Machine Learning: https://bityli.com/XcWuxD
-
-Churn Prediction Empresa de Telecomunicações - Machine Learning: https://bit.ly/3Bex9kI
