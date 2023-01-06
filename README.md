@@ -5,15 +5,19 @@
 # Bruno Guarda
 <sub>Data Science | Python | Machine Learning | SQL | Big Data</sub>
 
-• Experiência de 15 anos em indústria de grande porte, atuando em start up de fábrica, máquinas e linhas de produção;
 
-• Sólida experiência em resolução de problemas, análise de falhas e obtenção de causa raiz;
+•Conhecimento em: programação Python voltado para ciência de dados, banco de dados (MySQL), estatística aplicada a machine learning, métodos ágeis (SCRUM);
 
-• Forte conhecimento em análise de dados e indicadores focados em melhoria contínua;
+•Conhecimento em visualização de dados e  Storytelling; Power BI;
 
-• Vivência com gestão da equipe em projetos de melhoria contínua;
+•Experiência de 15 anos em indústria de grande porte, atuando em start up de fábrica, máquinas e linhas de produção;
 
-• Prática com metodologias como FMEA, TPM, WCM, PDCA e SDCA.
+•Forte conhecimento em análise de dados e indicadores focados em melhoria contínua;
+
+•Sólida experiência em resolução de problemas, análise de falhas e obtenção de causa raiz;
+
+•Vivência com gestão da equipe em projetos de melhoria contínua;
+
 
 **Background in:** Python, Machine Learning, SQL
 
